@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slime Slam", "Slime Slam.csproj", "{D267521F-D480-EC83-B628-935C678E42CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slime Slam.Plugins", "Slime Slam.Plugins.csproj", "{B62C2092-65BE-4CAD-0438-1AA4F0AA09FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D267521F-D480-EC83-B628-935C678E42CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D267521F-D480-EC83-B628-935C678E42CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D267521F-D480-EC83-B628-935C678E42CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D267521F-D480-EC83-B628-935C678E42CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62C2092-65BE-4CAD-0438-1AA4F0AA09FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62C2092-65BE-4CAD-0438-1AA4F0AA09FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62C2092-65BE-4CAD-0438-1AA4F0AA09FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62C2092-65BE-4CAD-0438-1AA4F0AA09FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

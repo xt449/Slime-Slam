@@ -1,0 +1,10 @@
+*.csproj
+.vs/
+
+bin/
+Builds/
+Library/
+Packages/
+ProjectSettings/
+Temp/
+UnityPackageManager/
